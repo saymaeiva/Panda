@@ -1,0 +1,58 @@
+.price{
+    color: #FF136F;
+}
+.banner{
+    background: #FEEAE9;
+    
+}
+.col{
+    margin-top: 45px;
+}
+.card1{
+    background: linear-gradient(152.07deg, #FF9C35 1.47%, #FFD019 97.17%);
+
+}
+.card2{
+    background: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
+
+}
+.card3{
+    background: linear-gradient(170.41deg, #4289FF -10.89%, #3F07F8 92.77%);
+
+}
+.Categories{
+    margin-top: 25px;
+}
+.allcard{
+    display: flex;
+    justify-content: space-between;
+}
+
+.bgcard{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+
+
+}
+.card{
+    background: #ebe6e6;
+    
+}
+.button{
+    text-align: center;
+}
+.futter{
+    text-align: center;
+    background: #FFF2F1;
+    padding: 80px;
+
+}
+.d-flex{
+    width: 100%;
+
+}
+.allbutton{
+    justify-content: space-between;
+    display: flex;
+}
